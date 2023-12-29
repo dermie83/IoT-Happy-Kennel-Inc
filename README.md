@@ -4,4 +4,4 @@ This is an IoT device protoype that allows a user to monitor the environment ins
 
 The device used is an Arduino MKR Rev 2 WiFi 1010 and the code is developed through the Arduino IDE.
 
-YouTube link for protoype demonstration here: https://youtu.be/mFXfBux47T8
+YouTube link to code and protoype functional demonstration here: https://youtu.be/mFXfBux47T8
